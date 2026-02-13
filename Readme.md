@@ -3,6 +3,8 @@
 ## 📝 Project Description
 Online Medical Marketplace is a simple web-based platform that allows users to browse and purchase medical equipment and supplies. The website provides an easy-to-use interface with a homepage, product listings, and an About Us page, making it ideal for healthcare professionals and individuals seeking reliable medical products.
 
+---
+
 ## 📑 Table of Contents
 
 - [Features](#-features)
@@ -13,6 +15,8 @@ Online Medical Marketplace is a simple web-based platform that allows users to b
 - [License](#-license)
 - [Author](#author)
 
+---
+
 ## ✨ Features
 - 🏠 **Homepage**: Introduction and description of the marketplace with images.  
 - 🛒 **Products Page**: Displays medical equipment (e.g., stethoscopes, blood pressure monitors, pulse oximeters) with “Add to Cart” functionality.  
@@ -20,6 +24,7 @@ Online Medical Marketplace is a simple web-based platform that allows users to b
 - 🛍️ **Cart Counter**: Simple JavaScript functionality to track the number of items added to the cart.  
 - 📱 **Responsive Design**: Basic CSS for a clean and organized layout.
 
+---
 
 ## 📁 Project Structure
 
@@ -32,6 +37,8 @@ online-medical-marketplace/
 ├─ script.js # JavaScript for cart functionality
 └─ images/ # Folder for product images
 ```
+
+---
 
 ## 🚀 Usage
 
@@ -74,6 +81,8 @@ To use this project, you'll need to have GitHub installed on your machine. Follo
     2. Products
     3. About Us
     ```
+
+---
 
 ## 💻 Technologies Used
 - HTML5 🏷️
