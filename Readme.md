@@ -53,7 +53,7 @@ To use this project, you'll need to have GitHub installed on your machine. Follo
 2. Navigate to the Project Folder
 
     ```bash
-    cd Week2-Homework-Peter`
+    cd Week2-Homework-Peter
     ```
 
 3. Verify the File Structure
