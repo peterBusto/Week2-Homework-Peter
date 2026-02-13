@@ -31,7 +31,6 @@ online-medical-marketplace/
 ├─ styles.css # CSS for all pages
 ├─ script.js # JavaScript for cart functionality
 └─ images/ # Folder for product images
-
 ```
 
 ## 🚀 Usage
